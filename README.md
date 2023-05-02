@@ -17,4 +17,4 @@ TailR was developed  using HTML, CSS, and Bootstrap. Special thanks to the follo
 
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Font Awesome Icons](https://fontawesome.com/)
-- [ColorHunt]([https://unsplash.com/](https://colorhunt.co/))
+- [ColorHunt](https://colorhunt.co/)
